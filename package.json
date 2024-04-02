@@ -1,0 +1,22 @@
+{
+  "name": "countdown-react-svg",
+  "version": "0.1.0",
+  "description": "Countdowns for React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silex-rr/countdown-react-svg.git"
+  },
+  "author": "Anton.b",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silex-rr/countdown-react-svg/issues"
+  },
+  "homepage": "https://github.com/silex-rr/countdown-react-svg#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
