@@ -9,9 +9,9 @@ This library provides an easy-to-use and customizable countdown timer solution f
 Below is a simple example demonstrating how to use Circle Countdown
 
 ```js
-import { CircleCountdown } from 'circle-countdown-js-library';
+import { CountdownCircle } from 'countdown-react-svg';
 
-<CircleCountdown
+<CountdownCircle
     timeLeft={18}
     timeTotal={30}
     size={24}
