@@ -1,5 +1,5 @@
 import CountdownCircle from "./CountdownCircle";
 
-export default {
+export {
     CountdownCircle
 }
