@@ -1,5 +1,7 @@
-import CountdownCircle from "./lib/CountdownCircle";
+import Web from "./src/web/index";
+import NativeWindows from "./src/nativeWindows/index";
 
 export {
-    CountdownCircle,
+    Web,
+    NativeWindows
 }

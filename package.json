@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/silex-rr/countdown-react-svg#readme",
   "dependencies": {
-    "react": "^18.2.0"
+    "react": "^18.2.0",
+    "react-native": "^0.72",
+    "react-native-svg": "^15.1.0",
+    "react-native-windows": "0.72.6"
   }
 }
