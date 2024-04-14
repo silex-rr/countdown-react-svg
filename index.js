@@ -1,4 +1,4 @@
-import CountdownCircle from "./lib/CountdownCircle";
+import CountdownCircle from "./src/components/CountdownCircle";
 
 export {
     CountdownCircle,
